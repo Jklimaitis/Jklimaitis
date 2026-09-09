@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Jonas!
+<p align="center">
+  <img src="./banner.jpg" width="100%">
+</p>
 
-💻 Backend Developer focused on Python.
+<h1 align="center">👋 Hi, I'm Jonas!</h1>
+
+<p align="center">
+  Backend Developer focused on Python, Django, FastAPI, REST APIs and automation.
+</p>
 
 🌱 Currently improving my skills in Django, FastAPI, REST APIs,
 SQL, Linux and automation.
