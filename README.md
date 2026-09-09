@@ -16,7 +16,7 @@ SQL, Linux and automation.
 ### 🛠️ Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,uipath,linux,git,github,vscode" />
 </p>
 
 ### 🚀 About me
